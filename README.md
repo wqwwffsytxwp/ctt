@@ -122,7 +122,7 @@
 - [NodeSeek 帖子](https://www.nodeseek.com/post-237769-1)
 
 ## 致谢
-- 特别感谢 [VTEXS](https://vtexs.com/) 赞助本项目
+- 特别感谢 [VTEXS](https://vtexs.com/) 赞助本项目，感谢 [VTEXS](https://vtexs.com/)为开源社区提供算力支持！
 - 特别感谢 [xAI](https://x.ai/) 提供的支持和灵感，帮助我完成了本项目的开发和优化
 - 特别感谢 [cloud flare](https://www.cloudflare.com/) 大善人
 
