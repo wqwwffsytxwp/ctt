@@ -3,6 +3,8 @@
 这是一个基于Cloudflare Workers实现的Telegram消息转发分组对话机器人，代号 **CFTeleTrans (CTT)**，专注于将用户消息安全、高效地转发到后台群组，同时充分利用Cloudflare的免费额度（榨干CF大善人！）。该机器人支持用户验证、消息转发、频率限制、管理员管理等功能，适用于客服、社区管理等场景。
 ## 04.16更新：修复bug，去除话题前缀（建议更新）
 - **特别感谢 [VTEXS](https://vtexs.com/) 赞助本项目，感谢 [VTEXS](https://vtexs.com/)为开源社区提供算力支持！**
+- [![image](iframe组件截图图片链接)](https://yxvm.com/)
+[NodeSupport](https://github.com/NodeSeekDev/NodeSupport)赞助了本项目
 ## 项目截图
 
 以下是 CFTeleTrans 项目的截图： 
